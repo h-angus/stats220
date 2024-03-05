@@ -7,4 +7,4 @@ This is where i will store my *Stats220* code.
 
 ### Links
 - [Google](www.google.com)
-- [My Github Page] (https://github.com/h-angus/stats220)
+- [My Github Page](https://github.com/h-angus/stats220)
