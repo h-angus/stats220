@@ -6,5 +6,5 @@ This is where i will store my *Stats220* code.
 2. 2
 
 ### Links
-- [Google](www.google.com)
-- [My Github Page](https://github.com/h-angus/stats220)
+- [My Github](https://github.com/h-angus/stats220)
+- [My Github Page](https://h-angus.github.io/stats220/)
